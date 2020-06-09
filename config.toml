@@ -1,4 +1,4 @@
-baseURL = "https://drand-demo.nikkolasg.xyz/"
+baseURL="https://drand-demo.nikkolasg.xyz"
 languageCode = "en-us"
 title = "drand - A Distributed Randomness Beacon"
 
